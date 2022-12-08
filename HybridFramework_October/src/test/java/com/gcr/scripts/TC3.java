@@ -12,6 +12,7 @@ public class TC3 extends StartBrowser{
   public void OnlyLoginLogout() throws Exception {
 	  CommonFunctions cfs = new CommonFunctions();
 	  cfs.login();
+	  //This is a change
 	  cfs.logout();
   }
 }
