@@ -8,7 +8,7 @@ Excel data reading -- Fillo (POI)
 Reporting -- Extent Report
 
 src/main/java -- All the code related to framework
-src/test/java -- all thhe code related to application and test cases
+src/test/java -- all the code related to application and test cases
 
 TestData -- excel sheets
 Reports -- HTML Report

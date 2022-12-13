@@ -27,7 +27,7 @@ public class StartBrowser {
 	@BeforeTest
 	public void generateReport()
 	{
-		sparkReporter = new ExtentSparkReporter("Reports/RegressionReport.html");
+		sparkReporter = new ExtentSparkReporter("Reports/NagaRegression.html");
 		extent = new ExtentReports();
 		extent.attachReporter(sparkReporter);
 	}
